@@ -40,3 +40,20 @@ https://ai-shield-pro.streamlit.app
 - Deep Learning
 - MLOps
 
+## 🚀 Featured Project
+
+### AI Shield Pro
+
+AI-powered content verification platform featuring:
+
+- Fake News Detection
+- Image Classification
+- AI Generated Image Detection
+- Analytics Dashboard
+- Streamlit Deployment
+
+🔗 Live Demo:
+https://ai-shield-pro.streamlit.app
+
+🔗 GitHub Repository:
+https://github.com/Laukik-coder/AI-Shield-Pro
